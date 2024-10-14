@@ -1,0 +1,1 @@
+Loggerfiber is an MIT-licensed logger middleware for [Fiber](https://github.com/gofiber/fiber/).
